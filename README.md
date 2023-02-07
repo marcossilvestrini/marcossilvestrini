@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Devops\SRE](https://github.com/marcossilvestrini)
 
-- 🌱 I’m currently learning **GNU\Linux,Packer,Ansible,Terraform,VMware**
+- 🌱 I’m currently learning **GNU\Linux,Git,Docker,Kubernets,Packer,Terraform,Ansible,Python,Public Cloud,SRE**
 
 - 👯 I’m looking to collaborate on [Devops\SRE](https://github.com/marcossilvestrini)
 
